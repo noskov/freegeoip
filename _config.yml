@@ -1,2 +1,4 @@
 permalink: /:year/:month/:title.html
 highlighter: true
+
+theme: jekyll-theme-slate
